@@ -164,10 +164,6 @@ header .search i {
   transform: translateY(-50%);
   cursor: pointer;
 }
-header .search i:hover + input {
-  display: block;
-  margin-right: 40px;
-}
 header nav .menu {
   color: #fff;
   font-size: 20px;
