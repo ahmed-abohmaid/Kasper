@@ -5,7 +5,7 @@ let progressSpans = document.querySelectorAll(".prog-holder .prog span");
 let span = document.querySelector(".up");
 
 window.onscroll = function () {
-  if (window.scrollY >= section.offsetTop - 260) {
+  if (window.scrollY >= section.offsetTop - 390) {
     progressSpans.forEach((span) => {
       span.style.width = span.dataset.progress;
     });
