@@ -4,7 +4,7 @@
 
 *  [Description](#description)
 *  [Technologies](#technologies)
-*  [Licence](#license)
+*  [License](#license)
 
 <hr>
 
@@ -22,5 +22,5 @@ Live Project :
 
 <hr>
 
-## Licence
+## License
 www.graphberry.com
