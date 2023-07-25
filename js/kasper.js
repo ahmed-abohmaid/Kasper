@@ -70,7 +70,7 @@ function Checker() {
   removeAllActive();
 
   // Change the background
-  homeSection.style.backgroundImage = `url(images/home${currentItem}.jpg)`;
+  homeSection.style.backgroundImage = `url(images/home${currentItem}.webp)`;
 
   // Change active class
   myBolies[currentItem - 1].classList = "active";
